@@ -1,4 +1,5 @@
-sublime
+Sublime Text 2 - Personal Settings
 =======
 
-Sublime settings
+- Eclipse like shortcuts (Key Bindings);
+- Personal settings;
