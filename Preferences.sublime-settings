@@ -1,8 +1,13 @@
 {
-	"color_scheme": "Packages/Color Scheme - Default/Pastels on Dark.tmTheme",
+	"color_scheme": "Packages/Color Scheme - Default/Twilight.tmTheme",
 	"detect_indentation": false,
-	"highlight_line": true,
 	"fold_buttons": false,
-	"word_wrap": false,
-	"font_size": 12.0
+	"font_size": 12.0,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"theme": "Soda Dark.sublime-theme",
+	"word_wrap": false
 }
