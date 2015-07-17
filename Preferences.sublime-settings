@@ -12,16 +12,14 @@
     "fold_buttons" : false,
     "folder_exclude_patterns" :
     [
-        ".svn",
-        ".git",
-        ".hg",
-        "CVS",
-        ".settings",
+        ".*",
+        "bin",
+        "build",
         "classes",
-        "target",
-        "tmp",
+        "CVS",
         "deploy",
-        "bin"
+        "target",
+        "tmp"
     ],
     "font_size" : 12.5,
     "highlight_line" : true,
