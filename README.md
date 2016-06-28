@@ -1,7 +1,7 @@
 Sublime Text - Personal Settings
 =======
 
-Custom settings for Mac OS X.
+Custom settings.
 
 - Eclipse like shortcuts (Key Bindings);
 - Personal settings;
