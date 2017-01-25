@@ -1,4 +1,5 @@
 {
+    "show_encoding" : true,
     "detect_indentation" : false,
     "file_exclude_patterns" :
     [
