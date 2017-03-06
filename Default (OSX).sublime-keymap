@@ -17,5 +17,7 @@
 	{ "keys": ["super+shift+w"], "command": "close_all" },
 	{ "keys": ["super+shift+s"], "command": "save_all" },
 	{ "keys": ["alt+up"], "command": "swap_line_up" },
-	{ "keys": ["super+k"], "command": "find_next" }
+	{ "keys": ["super+k"], "command": "find_next" },
+	{ "keys": ["ctrl+alt+right"], "command": "next_view" },
+	{ "keys": ["ctrl+alt+left"], "command": "prev_view" }
 ]
