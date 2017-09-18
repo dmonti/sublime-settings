@@ -1,31 +1,38 @@
 {
-    "show_encoding" : true,
-    "detect_indentation" : false,
-    "file_exclude_patterns" :
-    [
-        ".classpath",
-        "*.log",
-        "*.class",
-        ".cvsignore",
-        ".DS_Store",
-        ".project"
-    ],
-    "fold_buttons" : false,
-    "folder_exclude_patterns" :
-    [
-        ".*",
-        "bin",
-        "build",
-        "classes",
-        "CVS",
-        "deploy",
-        "target",
-        "tmp"
-    ],
-    "font_size" : 12.5,
-    "highlight_line" : true,
-    "ignored_packages" : [ "Vintage" ],
-    "syntax_docset_map" : { "Grails" : ["groovy"] },
-    "translate_tabs_to_spaces" : true,
-    "word_wrap" : false
+	"default_encoding": "UTF-8",
+	"detect_indentation": false,
+	"draw_white_space": "all",
+	"file_exclude_patterns":
+	[
+		".classpath",
+		"*.log",
+		"*.class",
+		".cvsignore",
+		".DS_Store",
+		".project"
+	],
+	"fold_buttons": false,
+	"folder_exclude_patterns":
+	[
+		".*",
+		"bin",
+		"classes",
+		"CVS",
+		"deploy",
+		"target",
+		"tmp",
+		"node_modules",
+		"RemoteSystemsTempFiles"
+	],
+	"font_size": 12.5,
+	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"match_brackets": true,
+	"match_brackets_angle": true,
+	"show_encoding": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
