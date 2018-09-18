@@ -7,6 +7,7 @@
 		".classpath",
 		"*.log",
 		"*.class",
+		"**/build/**/*.properties",
 		".cvsignore",
 		".DS_Store",
 		".project"
@@ -15,7 +16,6 @@
 	"folder_exclude_patterns":
 	[
 		".*",
-		"bin",
 		"classes",
 		"CVS",
 		"deploy",
@@ -24,11 +24,16 @@
 		"node_modules",
 		"RemoteSystemsTempFiles"
 	],
-	"font_size": 12.5,
+	"font_size": 11.5,
 	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"match_brackets": true,
 	"match_brackets_angle": true,
 	"show_encoding": true,
-	"trim_trailing_white_space_on_save": true,
+	"tab_size": 2,
+	"translate_tabs_to_spaces": false,
 	"word_wrap": false
 }
