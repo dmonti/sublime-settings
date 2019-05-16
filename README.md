@@ -3,5 +3,5 @@ Sublime Text - Personal Settings
 
 Custom settings.
 
-- Eclipse like shortcuts (Key Bindings);
+- Fix close all and save all shortcuts
 - Personal settings;
