@@ -1,13 +1,32 @@
- {
+{
 	"detect_indentation": false,
 	"draw_white_space": "all",
 	"file_exclude_patterns":
 	[
-		"*.pyc", "*.pyo", "*.exe", "*.dll", "*.obj",
-		"*.o", "*.a", "*.lib", "*.so", "*.dylib",
-		"*.ncb", "*.sdf", "*.suo", "*.pdb", "*.idb",
-		"*.psd", "*.db", "*.sublime-workspace",
-		".project", ".classpath", "*.log", "*.class", "*.jar", "*.war", "*.ser",
+		"*.pyc",
+		"*.pyo",
+		"*.exe",
+		"*.dll",
+		"*.obj",
+		"*.o",
+		"*.a",
+		"*.lib",
+		"*.so",
+		"*.dylib",
+		"*.ncb",
+		"*.sdf",
+		"*.suo",
+		"*.pdb",
+		"*.idb",
+		"*.psd",
+		"*.db",
+		"*.sublime-workspace",
+		".project",
+		".classpath",
+		"*.class",
+		"*.jar",
+		"*.war",
+		"*.ser",
 		".cvsignore",
 		".DS_Store"
 	],
@@ -18,20 +37,20 @@
 		"classes",
 		"CVS",
 		"deploy",
-		"target/classes",
-		"target/test-classes",
-		"target/maven-status",
-		"target/cobertura",
-		"target/site",
+		"target",
 		"node_modules",
 		"RemoteSystemsTempFiles"
 	],
 	"font_size": 12,
 	"highlight_line": true,
+	"ignored_packages":
+	[
+		"Vintage"
+	],
 	"match_brackets": true,
 	"match_brackets_angle": true,
 	"show_encoding": true,
 	"tab_size": 2,
-	"translate_tabs_to_spaces": false,
+	"translate_tabs_to_spaces": true,
 	"word_wrap": false
 }
