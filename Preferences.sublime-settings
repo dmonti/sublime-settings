@@ -28,18 +28,22 @@
 		"*.war",
 		"*.ser",
 		".cvsignore",
-		".DS_Store"
+		".DS_Store",
+    "pom.xml.releaseBackup"
 	],
 	"fold_buttons": false,
 	"folder_exclude_patterns":
 	[
 		".*",
 		"classes",
+    "build",
+    "bin",
 		"CVS",
 		"deploy",
 		"target",
 		"node_modules",
-		"RemoteSystemsTempFiles"
+		"RemoteSystemsTempFiles",
+    "*/portal/app/lib"
 	],
 	"font_size": 12,
 	"highlight_line": true,
